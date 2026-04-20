@@ -254,7 +254,7 @@ function App() {
               <div className="muted block-space">
                 Exhibit Highlight — Compliance: Still frame showing the complainant exiting the premises after being directed to leave.
               </div>
-              <a href="https://drive.google.com/file/d/1GxG0P3hP7OGAkAhHQlw78HhtQa3jW-76/view?usp=drive_link" target="_blank" rel="noreferrer" className="button button-dark">
+              <a href="https://drive.google.com/file/d/1BKS9MW8FJ67k7MUGPIxyCWZ4lWWsOyQD/view?usp=drive_link" target="_blank" rel="noreferrer" className="button button-dark">
                 View Compliance Video
               </a>
             </div>
