@@ -144,7 +144,7 @@ const exhibits = [
   {
     title: "Exhibit 3 — Timeline of Events",
     desc: "Full chronology of events from assault through OSHA closure.",
-    link: "https://drive.google.com/file/d/1GxG0P3hP7OGAkAhHQlw78HhtQa3jW-76/view?usp=drive_link",,
+    link: "https://drive.google.com/file/d/1GxG0P3hP7OGAkAhHQlw78HhtQa3jW-76/view?usp=drive_link",
   },
   {
     title: "Exhibit 4 — Affidavit of Victor DaRosa",
