@@ -139,7 +139,7 @@ const exhibits = [
   {
     title: "Exhibit 2 — Sept. 16, 2024 Incident / Compliance Video",
     desc: "Video and related material showing the events of the safety objection and police interaction.",
-    link: "https://drive.google.com/file/d/1GxG0P3hP7OGAkAhHQlw78HhtQa3jW-76/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1BKS9MW8FJ67k7MUGPIxyCWZ4lWWsOyQD/view?usp=drive_link",
   },
   {
     title: "Exhibit 3 — Timeline of Events",
@@ -174,12 +174,12 @@ const exhibits = [
   {
     title: "Exhibit 9 — Status Request and Correspondence",
     desc: "Emails requesting updates and raising concerns about evidence handling.",
-    link: "https://drive.google.com/file/d/17QG4XjoaYTGEF2CGJxudRrIY_dIntBQF/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/1eugPd236njH-a30Z6_v6tm_IUp48spPP/view?usp=drive_link",
   },
   {
     title: "Exhibit 10 — Final Closure Letter (Mar. 23, 2026)",
     desc: "Final OSHA determination closing the case.",
-    link: "https://drive.google.com/file/d/1eugPd236njH-a30Z6_v6tm_IUp48spPP/view?usp=drive_link",
+    link: "https://drive.google.com/file/d/17QG4XjoaYTGEF2CGJxudRrIY_dIntBQF/view?usp=drive_link",
   },
 ];
 
