@@ -137,14 +137,14 @@ const exhibits = [
     link: "https://drive.google.com/file/d/1BY9SEbfT-xGOT8Zvwd7DFBwn-9mttLj6/view?usp=drive_link",
   },
   {
-    title: "Exhibit 2 — Timeline of Events",
-    desc: "Full chronology of events from assault through OSHA closure.",
+    title: "Exhibit 2 — Sept. 16, 2024 Incident / Compliance Video",
+    desc: "Video and related material showing the events of the safety objection and police interaction.",
     link: "https://drive.google.com/file/d/1GxG0P3hP7OGAkAhHQlw78HhtQa3jW-76/view?usp=drive_link",
   },
   {
-    title: "Exhibit 3 — Sept. 16, 2024 Incident / Compliance Video",
-    desc: "Video and related material showing the events of the safety objection and police interaction.",
-    link: "https://drive.google.com/file/d/1GxG0P3hP7OGAkAhHQlw78HhtQa3jW-76/view?usp=drive_link",
+    title: "Exhibit 3 — Timeline of Events",
+    desc: "Full chronology of events from assault through OSHA closure.",
+    link: "https://drive.google.com/file/d/1GxG0P3hP7OGAkAhHQlw78HhtQa3jW-76/view?usp=drive_link",,
   },
   {
     title: "Exhibit 4 — Affidavit of Victor DaRosa",
