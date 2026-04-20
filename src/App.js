@@ -254,16 +254,16 @@ function App() {
               <div className="muted block-space">
                 Exhibit Highlight — Compliance: Still frame showing the complainant exiting the premises after being directed to leave.
               </div>
-              <a href="https://drive.google.com/file/d/1BKS9MW8FJ67k7MUGPIxyCWZ4lWWsOyQD/view?usp=drive_link" target="_blank" rel="noreferrer" className="button button-dark">
-                View Compliance Video
+              <a href="https://drive.google.com/file/d/1LtgXVbZJM6jOATPG2fa7JSE1JrMZYh0R/view?usp=drive_link" target="_blank" rel="noreferrer" className="button button-dark">
+                View Compliance Still Frame
               </a>
             </div>
             <div className="card">
               <div className="muted block-space">
                 Exhibit Highlight — Prior Assault: Still frame capturing the prior workplace incident referenced in the safety concern.
               </div>
-              <a href="https://drive.google.com/file/d/1BY9SEbfT-xGOT8Zvwd7DFBwn-9mttLj6/view?usp=drive_link" target="_blank" rel="noreferrer" className="button button-dark">
-                View Prior Assault Video
+              <a href="https://drive.google.com/file/d/1R3kbWyvcvhC-2XVXNHmDAD8uRgvEDpJH/view?usp=drive_link" target="_blank" rel="noreferrer" className="button button-dark">
+                View Prior Assault Still Frame
               </a>
             </div>
           </div>
